@@ -1,7 +1,3 @@
-Here’s the documentation in a structured format for your **AWS RDS Relational Database Service** project using **MySQL Client (Sqlectron)**:
-
----
-
 # AWS RDS - Relational Database Service (MySQL)
 
 ## 1. **RDS Instance Configuration**
